@@ -1,8 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=115&section=footer&reversal=true&text=Computer%20Science%20%7C%20Mathematics&fontSize=40&fontColor=FFFFFF&fontAlign=49&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=115&section=footer&reversal=true&text=Computer%20Science%20%7C%20Linguistics&fontSize=40&fontColor=FFFFFF&fontAlign=49&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
-
-[![Kruz's GitHub stats](https://github-stats-extended.vercel.app/api?username=buckledharpy)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
